@@ -1,0 +1,11 @@
+﻿  -- Install configuration: "Release"
+  -- Installing: C:/darknet/darknet.lib
+  -- Installing: C:/darknet/darknet.dll
+  -- Installing: C:/darknet/include/darknet/darknet.h
+  -- Installing: C:/darknet/include/darknet/yolo_v2_class.hpp
+  -- Installing: C:/darknet/uselib.exe
+  -- Installing: C:/darknet/darknet.exe
+  -- Installing: C:/darknet/share/darknet/DarknetTargets.cmake
+  -- Installing: C:/darknet/share/darknet/DarknetTargets-release.cmake
+  -- Installing: C:/darknet/share/darknet/DarknetConfig.cmake
+  -- Installing: C:/darknet/share/darknet/DarknetConfigVersion.cmake
